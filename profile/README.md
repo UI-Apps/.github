@@ -2,7 +2,7 @@
 
 > 🐦 Some `README` information from repositories is going to be moved to the organization site. Sorry for an inconvinience.
 
-## How email me about project problems?
+## How to email me about project problems?
 
 Please include `issue`|`problem`|`bug`|`feature` and `ui-apps` words in a message body when you email me about any issue.
 
